@@ -1,5 +1,5 @@
 <!-- view/team/list.php -->
-<?php $judul = 'Daftar Music' 
+<?php $judul = 'Teams' 
 ?>
 
 <?php ob_start() ?>

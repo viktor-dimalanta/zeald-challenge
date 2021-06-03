@@ -2,12 +2,6 @@
 
 require_once('vendor/autoload.php');
 use Illuminate\Support;
-
-// global connection object
-// $database = 'nba2019';
-// global $mysqli_db;
-// $mysqli_db = new mysqli('localhost', 'root', '', $database ?: 'nba2019');
-
 /**
  * Execute a query & return the resulting data as an array of assoc arrays
  * @param string $sql query to execute
